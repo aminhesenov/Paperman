@@ -1,0 +1,17 @@
+D:\C# dersleri\Paperman\Paperman\bin\Debug\net8.0-windows\Paperman.exe
+D:\C# dersleri\Paperman\Paperman\bin\Debug\net8.0-windows\Paperman.deps.json
+D:\C# dersleri\Paperman\Paperman\bin\Debug\net8.0-windows\Paperman.runtimeconfig.json
+D:\C# dersleri\Paperman\Paperman\bin\Debug\net8.0-windows\Paperman.dll
+D:\C# dersleri\Paperman\Paperman\bin\Debug\net8.0-windows\Paperman.pdb
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.Form1.resources
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.Properties.Resources.resources
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.csproj.GenerateResource.cache
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.AssemblyInfoInputs.cache
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.AssemblyInfo.cs
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.dll
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\refint\Paperman.dll
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.pdb
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\Paperman.genruntimeconfig.cache
+D:\C# dersleri\Paperman\Paperman\obj\Debug\net8.0-windows\ref\Paperman.dll
